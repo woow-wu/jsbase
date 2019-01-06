@@ -4,6 +4,7 @@
 - babel-plugin-import
 - react-router-dom
 - redux react-redux redux-devtools-extension(dev)
+- axios
 
 
 
