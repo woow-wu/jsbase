@@ -1,3 +1,16 @@
+# dependencies
+- antd
+- less less-loader
+- babel-plugin-import
+- react-router-dom
+- redux react-redux redux-devtools-extension(dev)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
